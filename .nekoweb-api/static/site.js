@@ -6,3 +6,4 @@ xhr.send();
 if(document.currentScript) {
     document.currentScript.remove();
 }
+
